@@ -12,3 +12,19 @@ Dynamic web application built with PHP and MySQL.
 
 ## Tech Stack
 PHP, MySQL, Bootstrap 5, HTML, CSS, JavaScript
+
+
+## Screenshots
+
+### Index page
+![Index page](index.png)
+
+### Login Page
+![Login Page](login.png)
+
+### Facilities Page
+![Facilities Page](facilities.png)
+
+### Gallery Page
+![Gallery Page](gallery.png)
+
