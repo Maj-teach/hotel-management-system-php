@@ -1,0 +1,558 @@
+
+
+
+.content {
+    background: linear-gradient(to bottom, #ADB1C2 69%, #FFFFFF 30%);
+}
+
+.carousel-container{
+    margin-top: 30px;
+    
+}
+
+.sur {
+    font-family: 'Exo', sans-serif;
+    font-size: 25px;
+
+
+}
+
+#fore{
+width: 64%;
+}
+
+
+
+.cus-h1 {
+    font-family: 'Exo', sans-serif;
+    color: rgb(5, 5, 66);
+    font-size: 50px;
+    text-align: end;
+    margin-top: 80px;
+    line-height: 1.3;
+    padding-right: 50px;
+
+}
+.cus-h2 {
+    font-family: 'Permanent Marker', cursive;
+    color: whitesmoke;
+    font-size: 49px;
+    text-align: end;
+    margin-right: 30px;
+    margin-top: 10px; 
+    line-height: 1.3;
+   
+}
+
+
+.h3 {
+    font-family: 'Exo', sans-serif;
+    color: navy; 
+    font-size: 27px;
+
+}
+
+p {
+font-family: 'Ysabeau SC', sans-serif;
+color: navy;
+
+}
+
+
+
+.custom-margin {
+    margin: 70px 10px;
+    font-family: 'Ysabeau SC', sans-serif;
+    
+
+
+}
+
+#ser {
+    width: 40%;
+}
+
+
+
+.custom-input {
+    border: 1px solid rgb(200, 190, 190);
+    border-radius: 5px; /* Example border radius */
+    margin-top: 20px;
+  
+  }
+
+nav {
+    background-color: #000328;
+    font-family: 'Ysabeau SC', sans-serif;
+    font-size: large;
+    font-size: 20px;
+
+} 
+.navbar-nav li   {
+margin-right:30px ;
+
+
+
+}    
+img{
+    margin-top: 0px;
+    margin-left: 28px;
+    
+}
+    
+
+.search-container {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+}
+    
+
+
+
+
+
+     
+.navbar .search {
+    color: white;
+    margin-top: 25px;
+    height: 20px
+    
+}
+
+.navbar .form-control {
+    margin-top: 20px;
+
+
+}
+
+.custom-alert{
+    font-family:'Ysabeau SC', sans-serif;
+}
+
+
+.btn.btn-primary  {
+    font-family: 'Ysabeau SC', sans-serif;
+   
+}
+
+
+.form {
+    font-family: 'Open Sans';
+    color: #070d60;
+    font-size:50px;
+
+}
+
+.form-label {
+    font-family: 'Ysabeau SC', sans-serif;
+    color: #070d60;
+}
+
+
+
+.btn.btn-primary {
+    font-family: 'Ysabeau SC', sans-serif;
+    
+}
+
+.parent-container {
+    position: relative;
+   
+}
+
+.table-striped {
+    font-family: 'Ysabeau SC', sans-serif;
+    color: navy;
+    text-align: left;
+    border: 1px  rgb(200, 190, 190);
+    border-spacing: 10px;
+}
+
+    
+
+
+
+
+
+
+    
+#facilities-background {
+    background-color: white;
+
+}
+
+
+.facilities-h1 {
+   font-family: 'Exo', sans-serif;
+   color: navy;
+   font-size: 40px; 
+   display: flex;
+   text-align: center;
+   justify-content: center;
+
+}
+
+
+
+#facilities-paragraph {
+   font-family: 'Ysabeau SC', sans-serif;
+   color: navy;  
+   font-size: 15px;
+   text-align: center;
+   
+}
+
+
+
+.green-link {
+color: #329177;
+}
+
+
+
+
+#gallery-background {
+   
+    background-color: white;
+    
+
+
+
+}
+
+
+.close-symbols{
+    float: right;
+   margin-right: 10px;
+   margin-top: 10px;
+
+
+
+}
+
+
+
+#gallery-h1 {
+    font-family: 'Exo', sans-serif;
+    color:navy;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 20px;
+    margin-left: 14px;
+}
+
+  
+ 
+#gallery-p1 {
+    font-family: 'Ysabeau SC', sans-serif;
+    color: navy;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 10px; 
+
+
+  }
+  
+
+
+
+ 
+#gallery-p2 {
+    font-family: 'Ysabeau SC', sans-serif;
+    color: navy;
+    font-size: 14px;
+    text-align: center;
+    margin-top: -10px;
+    
+  
+  }
+
+
+
+
+.gallery {
+    display: inline-block;
+    width: 70%;
+    overflow: hidden;
+    text-align: center;
+    vertical-align: top;
+    margin-top: 21px;
+    margin-left: 43px;
+    margin-bottom: 12px;
+    border: 1px groove #ADB1C2;
+    transform: translate(40px, -4px);
+}
+
+.gallery img {
+    max-width: 100%;
+    overflow: hidden;
+    display: block;
+    margin: 0;
+    transition: transform 0.3s; 
+  }
+  
+ 
+.gallery img:hover {
+    transform: scale(1.1); 
+  }
+  
+
+
+
+
+.caption {
+    color: navy;
+    font-size: 17px;
+    font-weight: bold;
+    margin: 9px 0;
+    text-align: center; 
+  }
+  
+ 
+  
+
+#dropdown-menu {
+    float: left;
+    width: 78%;
+    padding: 13px;
+    margin-left: 82px;
+    border: 1px solid #ccc;
+    border-radius: 2px;
+}
+
+
+
+
+
+
+
+
+#deatils-background {
+    background-color: white;
+
+
+
+}
+
+
+
+
+
+.details-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.details-container img {
+    margin-top: 30px;
+}
+
+span.material-symbols-outlined {
+    text-align: left;
+    font-size: 51px;
+    color: navy;
+    margin-top: 14px;
+    margin-left: 36px;
+}
+
+
+.price { 
+    font-family: 'Ysabeau SC', sans-serif;
+    color: navy;
+    margin-left: 114px;
+    margin-top: -38px;
+
+}
+
+
+.configuration {
+    font-family: 'Ysabeau SC', sans-serif;
+    color: navy;
+    margin-left: -55px;
+}
+
+
+
+
+
+.Cus-h2 {
+    font-size: 30px;
+    color: navy;
+    margin-left: 20px; 
+    margin-right: 20px; 
+
+
+}
+
+.P-d {
+    font-family: 'Ysabeau SC', sans-serif;
+    font-size: 17px;
+    color: navy;
+    margin-left: 20px; 
+    margin-right: 20px; 
+
+
+}
+
+
+
+.form-label::after  {
+        content: " *";
+        color: red;
+    }
+
+
+
+.form {
+    width: 90%;
+
+
+}
+
+
+.add-h1 {
+    font-family: 'Exo', sans-serif;
+    color: navy;
+    font-size: 30px;
+  
+
+
+}
+
+
+#add-p {
+font-family: 'Ysabeau SC', sans-serif;
+font-size: 17px;
+color:navy;
+
+}
+
+
+p.file-upload {
+    font-family: 'Ysabeau SC', sans-serif;
+    color: red;
+    
+
+}
+
+
+.file-upload .max-image-size {
+    font-family: 'Ysabeau SC', sans-serif;
+    color: red;
+
+
+
+}
+
+
+.file-upload {
+    display: flex;
+    align-items: center;
+}
+
+.file-upload label.required-label {
+    margin-right: 10px; 
+    font-family: 'Ysabeau SC', sans-serif;
+}
+
+.file-upload .max-image-size {
+    margin-left: 10px;
+    font-size: 14px;
+}
+
+
+
+
+.form-buttons {
+    display: flex;
+    justify-content: center; 
+}
+
+.submit-button, .clear-button {
+    font-family: 'Ysabeau SC', sans-serif;
+    padding: 7px;
+    border: 2px solid rgb(3, 3, 47);
+    border-radius: 20px;
+    cursor: pointer;
+    margin: 5px; 
+    width: 10%; 
+}
+
+.submit-button {
+    background-color: rgb(3, 3, 47);
+    color: white;
+}
+
+.clear-button {
+    background-color: whitesmoke;
+    color: rgb(3, 3, 47);
+}
+
+
+
+
+
+.deletecd {
+    display: inline-block;
+    width: 23%;
+    overflow: hidden;
+    margin-top: 21px;
+    margin-left: 43px;
+    margin-bottom: 12px;
+    transform: translate(40px, -4px);
+}
+
+.deletecd img {
+    max-width: 100%;
+    overflow: hidden;
+    display: block;
+    margin-left: -51px;
+}
+
+.deletecd .caption {
+    color: navy;
+    font-size: 17px;
+    font-weight: bold;
+    margin: 9px 0;
+}
+
+
+#success-message {
+font-family: 'Ysabeau SC', sans-serif;
+
+}
+
+
+
+
+
+p {
+    font-family: 'Ysabeau SC', sans-serif;
+}
+
+
+
+
+.facility-image {
+    max-width: 400px; 
+    height: auto; 
+}
+
+.Cus-h {
+    font-size: 30px;
+    color: navy;
+    margin-left: 20px; 
+    margin-right: 20px; 
+
+}
+
+
+footer {
+    background-color: #ADB1C2;
+    font-family: 'Ysabeau SC', sans-serif;
+    color: navy;
+    font-size: 14px;
+    position: relative;
+    clear: both; 
+}
